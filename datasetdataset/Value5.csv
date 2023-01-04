@@ -1,0 +1,46 @@
+    Sex,Work,Smoking,ChTobacco,HTN,Diabetes,Angina,Cough,SaltIntake,     R.A,Heart Problem,Exercise,Rice,Bread,Red Meat,Interpol,ST Slope,Age,Pulse,Troponin,P-R,QRS,Block
+female,Moderate,Level Four,Yes,No,No,2 Hour,No,Yes,Yes,Other Heart Problem,Yes,High,Low,High,Tachycardia,Depressed,Middle,High,Normal,Normal,Abnormal,five
+male,Moderate,Level Four,No,Yes,No,2 Hour,Yes,No,No,Heart Attack,Yes,Normal,Low,High,Normal,Depressed,Old,Normal,Normal,Normal,Abnormal,five
+male,Sedentary,No,Yes,No,Medicine,Unsatable,Yes,No,Yes,Heart Attack,Yes,Normal,Normal,High,Normal,Depressed,Old,Normal,Abnormal,Normal,Abnormal,five
+male,Sedentary,Level Four,No,No,No,20 hour,Yes,No,No,Heart Attack,No,Normal,High,High,Normal,Normal,Old,High,Abnormal,Normal,Normal,five
+male,Sedentary,Level Four,Yes,Yes,No,Unsatable,No,Yes,Yes,Heart Attack,Yes,Normal,High,High,Bradycardia,Depressed,Old,Normal,Abnormal,Normal,Abnormal,five
+male,Moderate,Level Four,No,Yes,No,20 hour,No,No,No,No,Yes,Normal,Low,High,Normal,Depressed,Old,Normal,Normal,Normal,Abnormal,five
+male,Sedentary,Level Four,No,No,No,Unsatable,No,No,No,Heart Attack,Yes,High,Normal,1 day,Tachycardia,Normal,Middle,Normal,Normal,Normal,Abnormal,five
+female,Sedentary,Level Four,Yes,Yes,No,1 day ,Yes,No,Yes,Heart Attack,No,High,Low,2day plus,Tachycardia,Normal,Old,Normal,Normal,Normal,Abnormal,five
+male,Active,Level Four,Yes,No,No,2 Hour,Yes,Yes,Yes,Heart Attack,Yes,Normal,Normal,1 day,Normal,Depressed,Old,Normal,Normal,Normal,Abnormal,five
+male,Sedentary,Level Three,No,No,No,8 hour,Yes,Yes,No,Heart Attack,No,Normal,Normal,High,Normal,Depressed,Old,Normal,Abnormal,Normal,Abnormal,five
+male,Sedentary,No,No,No,No,No,Yes,No,Yes,Heart Attack,No,Normal,Low,High,Tachycardia,Depressed,Old,Normal,Abnormal,Normal,Abnormal,five
+male,Active,Level Two,No,No,No,No,Yes,No,No,Heart Attack,Yes,Normal,Normal,1 day,Normal,Depressed,Old,High,Normal,Normal,Abnormal,five
+male,Active,Level One,Yes,Yes,No,No,Yes,Yes,Yes,Heart Attack,Yes,Normal,Low,1 day,Normal,Elevated,Old,Normal,Abnormal,Normal,Normal,five
+male,Active,Level Four,No,No,No,No,Yes,Yes,Yes,Heart Attack,Yes,Normal,High,1 day,Tachycardia,Elevated,Old,Normal,Normal,Normal,Abnormal,five
+male,Sedentary,No,No,Yes,No,2 Hour,Yes,No,No,No,No,Normal,Normal,1 day,Bradycardia,Depressed,Old,Low,Normal,Normal,Abnormal,five
+male,Active,No,No,Yes,No,Unsatable,No,Yes,No,Heart Attack,Yes,Normal,Normal,No,Tachycardia,Depressed,Old,Normal,Normal,Normal,Abnormal,five
+male,Sedentary,Level Four,No,No,No,Unsatable,No,No,Yes,Heart Attack,No,Normal,Normal,High,Normal,Depressed,Middle,Normal,Abnormal,Normal,Abnormal,five
+male,Active,Level Four,No,No,No,Unsatable,Yes,No,Yes,Surgery,Yes,Normal,Low,High,Tachycardia,Depressed,Old,High,Normal,Normal,Normal,five
+female,Sedentary,No,No,No,No,8 hour,Yes,No,Yes,Heart Attack,No,Normal,Low,2day plus,Normal,Normal,Old,Normal,Normal,Normal,Abnormal,five
+female,Sedentary,No,Yes,No,No,20 hour,Yes,Yes,Yes,Heart Attack,Yes,High,Normal,High,Normal,Depressed,Middle,Normal,Normal,Normal,Abnormal,five
+male,Moderate,No,No,Yes,No,Unsatable,Yes,No,Yes,Heart Attack,Yes,Low,Normal,No,Normal,Depressed,Old,Normal,Abnormal,Normal,Abnormal,five
+male,Sedentary,Level Three,No,Yes,No,Unsatable,No,Yes,No,Heart Attack,No,Normal,Low,High,Normal,Depressed,Middle,Normal,Abnormal,Normal,Abnormal,five
+female,Moderate,No,No,No,Medicine,1 day ,No,No,Yes,Heart Attack,No,Normal,Low,No,Normal,Depressed,Old,Normal,Normal,Normal,Abnormal,five
+male,Sedentary,Level Four,No,No,Yes,Unsatable,Yes,Yes,Yes,Heart Attack,No,Normal,Low,2day plus,Tachycardia,Depressed,Old,Normal,Normal,Normal,Abnormal,five
+male,Sedentary,No,Yes,No,Medicine,1 day ,Yes,No,No,Heart Attack,No,High,Normal,High,Tachycardia,Depressed,Old,Normal,Normal,Normal,Abnormal,five
+male,Moderate,Level Four,No,Yes,No,8 hour,No,No,No,Heart Attack,Yes,Low,Normal,High,Normal,Depressed,Old,Low,Abnormal,Normal,Abnormal,five
+female,Moderate,No,Yes,No,No,1 day ,No,Yes,Yes,Heart Attack,Yes,Normal,Normal,2day plus,Normal,Depressed,Middle,Normal,Normal,Abnormal,Abnormal,five
+male,Sedentary,No,Yes,No,No,1 day ,Yes,No,No,Heart Attack,No,Low,Low,High,Normal,Depressed,Old,Normal,Abnormal,Normal,Abnormal,five
+male,Active,Level Four,Yes,No,Medicine,1 day ,Yes,No,Yes,Heart Attack,No,Normal,Normal,High,Tachycardia,Depressed,Old,Normal,Abnormal,Normal,Abnormal,five
+male,Active,Level Four,No,No,Medicine,2 Hour,No,No,No,Heart Attack,Yes,Low,Normal,2day plus,Normal,Normal,Young,Normal,Normal,Abnormal,Abnormal,five
+male,Active,Level Four,No,Yes,No,2 Hour,Yes,Yes,No,Heart Attack,No,Normal,Low,High,Tachycardia,Normal,Old,High,Abnormal,Normal,Abnormal,five
+male,Moderate,Level Four,Yes,No,No,2 Hour,Yes,No,Yes,Heart Attack,Yes,Normal,Low,High,Normal,Depressed,Middle,Normal,Abnormal,Normal,Abnormal,five
+male,Sedentary,No,No,No,Medicine,2 Hour,Yes,No,Yes,No,Yes,Low,Low,High,Normal,Normal,Old,Normal,Abnormal,Normal,Abnormal,five
+female,Moderate,No,Yes,Yes,No,8 hour,Yes,Yes,Yes,Heart Attack,No,High,Normal,2day plus,Normal,Depressed,Middle,Normal,Normal,Normal,Abnormal,five
+male,Sedentary,Level Three,No,Yes,No,Unsatable,No,Yes,Yes,No,No,High,Low,2day plus,Normal,Elevated,Old,Normal,Normal,Normal,Abnormal,five
+male,Moderate,Level Four,No,No,Yes,20 hour,No,No,No,Surgery,No,Low,Low,High,Tachycardia,Depressed,Middle,Normal,Abnormal,Normal,Abnormal,five
+male,Sedentary,No,No,No,Medicine,No,No,No,No,Other Heart Problem,No,High,Low,High,Tachycardia,Depressed,Old,High,Normal,Normal,Abnormal,five
+male,Moderate,Level Four,No,No,No,1 day ,Yes,No,Yes,No,No,Normal,Low,No,Normal,Elevated,Middle,Normal,Abnormal,Normal,Abnormal,five
+male,Active,Level One,Yes,Yes,Yes,8 hour,No,Yes,No,Heart Attack,Yes,High,Low,High,Normal,Normal,Middle,Normal,Normal,Normal,Abnormal,five
+female,Sedentary,No,Yes,Yes,No,8 hour,No,Yes,Yes,No,No,High,High,High,Normal,Normal,Middle,Normal,Normal,Abnormal,Abnormal,five
+male,Sedentary,No,No,Yes,Yes,2 Hour,No,Yes,No,Heart Attack,Yes,Normal,High,2day plus,Tachycardia,Normal,Old,High,Normal,Normal,Abnormal,five
+male,Moderate,Level Four,No,Yes,Medicine,2 Hour,No,No,No,Heart Attack,No,High,Low,High,Tachycardia,Depressed,Middle,Normal,Abnormal,Normal,Abnormal,five
+male,Moderate,No,No,Yes,Medicine,Unsatable,Yes,Yes,No,Other Heart Problem,No,Low,Low,2day plus,Bradycardia,Normal,Middle,Low,Abnormal,Normal,Abnormal,five
+male,Sedentary,Level Four,No,No,No,Unsatable,No,No,No,Heart Attack,No,Low,Low,High,Normal,Normal,Old,Normal,Normal,Normal,Abnormal,five
+male,Sedentary,Level One,No,No,Medicine,1 day ,No,No,Yes,Other Heart Problem,No,Low,Low,High,Normal,Normal,Old,Low,Abnormal,Abnormal,Abnormal,five

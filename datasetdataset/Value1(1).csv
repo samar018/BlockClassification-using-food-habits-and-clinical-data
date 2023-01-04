@@ -1,0 +1,54 @@
+    Sex,Work,Smoking,ChTobacco,HTN,Diabetes,Angina,Cough,SaltIntake,     R.A,Heart Problem,Exercise,Rice,Bread,Red Meat,Interpol,ST Slope,Age,Pulse,Troponin,P-R,QRS,Pulse,Block
+male,Active,Level Two,No,Yes,Yes,Unsatable,Yes,No,Yes,Surgery,Yes,Normal,Normal,1 day,Normal,Normal,Old,Normal,Normal,Abnormal,Abnormal,Normal,one
+female,Moderate,Level One,No,Yes,Medicine,Unsatable,Yes,No,Yes,Heart Attack,Yes,Normal,High,1 day,Normal,Elevated,Old,Normal,Abnormal,Abnormal,Normal,Normal,one
+male,Moderate,Level Two,No,Yes,No,1 day ,No,Yes,No,Heart Attack,Yes,High,Normal,1 day,Normal,Normal,Old,Normal,Normal,Abnormal,Normal,Normal,one
+male,Sedentary,Level One,No,No,No,2 Hour,Yes,Yes,No,Heart Attack,Yes,Low,Normal,1 day,Normal,Normal,Old,Normal,Normal,Abnormal,Abnormal,Normal,one
+male,Sedentary,No,Yes,Yes,Insulin,No,Yes,No,Yes,Heart Attack,Yes,Normal,Normal,High,Normal,Normal,Old,Normal,Abnormal,Abnormal,Normal,Normal,one
+female,Active,No,No,Yes,No,Unsatable,Yes,No,Yes,Heart Attack,No,Normal,Low,1 day,Normal,Normal,Middle,Normal,Normal,Abnormal,Normal,Normal,one
+female,Sedentary,No,Yes,Yes,Yes,1 day ,No,No,No,Heart Attack,Yes,Low,Normal,High,Normal,Normal,Old,Normal,Normal,Abnormal,Normal,Normal,one
+female,Active,No,No,Yes,No,Unsatable,No,No,Yes,Heart Attack,Yes,Normal,Normal,1 day,Normal,Normal,Middle,Normal,Normal,Abnormal,Normal,Normal,one
+female,Sedentary,No,Yes,Yes,Yes,Unsatable,No,Yes,Yes,Heart Attack,No,Normal,Normal,1 day,Normal,Normal,Old,Normal,Abnormal,Abnormal,Normal,Normal,one
+male,Active,Level Two,Yes,No,No,2 Hour,Yes,Yes,Yes,Heart Attack,No,Low,High,No,Normal,Elevated,Middle,Normal,Normal,Abnormal,Normal,Normal,one
+male,Active,No,Yes,No,Insulin,2 Hour,Yes,No,Yes,Heart Attack,Yes,Normal,Normal,No,Tachycardia,Elevated,Middle,Normal,Normal,Abnormal,Abnormal,Normal,one
+male,Moderate,Level Two,Yes,No,Yes,8 hour,No,No,No,Heart Attack,Yes,High,Low,1 day,Normal,Normal,Old,Low,Normal,Abnormal,Normal,Low,one
+male,Sedentary,Level Two,No,No,No,No,Yes,No,Yes,Heart Attack,No,Normal,Normal,2day plus,Normal,Normal,Middle,Normal,Abnormal,Abnormal,Normal,Normal,one
+male,Active,Level Two,No,No,No,Unsatable,Yes,Yes,Yes,Heart Attack,Yes,Normal,Normal,1 day,Normal,Normal,Middle,Normal,Normal,Normal,Normal,Normal,one
+female,Sedentary,Level Two,No,Yes,No,No,Yes,No,No,No,Yes,Normal,Normal,1 day,Normal,Normal,Middle,Low,Normal,Abnormal,Normal,Low,one
+male,Sedentary,Level Two,No,Yes,No,8 hour,No,No,No,Heart Attack,No,Normal,Normal,High,Normal,Depressed,Middle,Normal,Normal,Abnormal,Normal,Normal,one
+male,Active,Level One,No,No,No,8 hour,No,No,Yes,Heart Attack,Yes,Normal,Normal,1 day,Normal,Normal,Old,Normal,Normal,Normal,Normal,Normal,one
+male,Sedentary,No,No,Yes,No,8 hour,No,No,Yes,Heart Attack,No,Normal,Normal,1 day,Tachycardia,Normal,Old,Normal,Normal,Abnormal,Normal,Normal,one
+male,Moderate,No,No,No,Insulin,No,Yes,Yes,No,Heart Attack,No,Normal,Normal,1 day,Normal,Normal,Old,Normal,Normal,Abnormal,Abnormal,Normal,one
+female,Active,No,Yes,Yes,No,Unsatable,No,No,Yes,Heart Attack,Yes,Normal,Normal,No,Normal,Elevated,Old,Normal,Normal,Abnormal,Normal,Normal,one
+female,Sedentary,No,Yes,Yes,Insulin,20 hour,No,No,No,Heart Attack,Yes,Normal,Normal,No,Normal,Depressed,Old,Normal,Normal,Abnormal,Normal,Normal,one
+female,Moderate,No,No,Yes,No,20 hour,Yes,No,Yes,Heart Attack,Yes,Normal,Normal,High,Normal,Normal,Middle,Normal,Normal,Normal,Normal,Normal,one
+female,Sedentary,No,Yes,Yes,No,1 day ,No,No,Yes,Heart Attack,No,Normal,Low,No,Normal,Normal,Middle,Normal,Normal,Abnormal,Normal,Normal,one
+female,Active,No,No,Yes,No,Unsatable,No,No,Yes,Heart Attack,Yes,Normal,Normal,1 day,Bradycardia,Normal,Old,Low,Normal,Abnormal,Abnormal,Low,one
+female,Sedentary,No,Yes,No,No,Unsatable,No,Yes,Yes,Heart Attack,No,Low,Normal,No,Normal,Normal,Middle,Normal,Normal,Normal,Normal,Normal,one
+male,Active,Level Two,Yes,Yes,Insulin,No,No,Yes,No,Heart Attack,Yes,Normal,Normal,1 day,Normal,Normal,Old,Normal,Normal,Abnormal,Abnormal,Normal,one
+male,Moderate,Level Two,No,Yes,Yes,1 day ,Yes,No,Yes,Heart Attack,No,Normal,Normal,High,Tachycardia,Depressed,Old,Normal,Abnormal,Normal,Normal,Normal,one
+male,Sedentary,No,No,Yes,Yes,1 day ,No,No,Yes,Heart Attack,Yes,Normal,Low,2day plus,Normal,Elevated,Old,Normal,Normal,Abnormal,Abnormal,Normal,one
+male,Sedentary,No,No,No,No,8 hour,No,No,Yes,Heart Attack,Yes,Normal,Low,No,Normal,Depressed,Old,Normal,Normal,Abnormal,Abnormal,Normal,one
+male,Sedentary,Level One,No,Yes,No,2 Hour,No,Yes,Yes,Heart Attack,No,Normal,Normal,No,Tachycardia,Normal,Old,High,Abnormal,Normal,Abnormal,High,one
+male,Active,Level Four,No,Yes,No,2 Hour,Yes,Yes,Yes,Heart Attack,No,High,Low,1 day,Normal,Normal,Old,Normal,Abnormal,Abnormal,Normal,Normal,one
+female,Sedentary,No,Yes,No,No,2 Hour,Yes,Yes,Yes,Heart Attack,No,High,Normal,2day plus,Normal,Normal,Young,Normal,Abnormal,Abnormal,Abnormal,Normal,one
+female,Sedentary,Level Three,Yes,Yes,No,1 day ,No,No,Yes,Heart Attack,Yes,High,Normal,1 day,Normal,Normal,Old,Low,Normal,Abnormal,Normal,Low,one
+female,Sedentary,No,Yes,Yes,No,No,No,Yes,Yes,Heart Attack,No,Low,Normal,No,Normal,Normal,Old,Normal,Normal,Abnormal,Normal,Normal,one
+male,Sedentary,Level One,No,Yes,No,2 Hour,Yes,Yes,No,Heart Attack,No,Normal,Low,2day plus,Bradycardia,Normal,Old,High,Normal,Normal,Normal,High,one
+female,Sedentary,Level One,Yes,No,No,8 hour,Yes,No,Yes,Heart Attack,No,Normal,Low,No,Normal,Normal,Middle,Normal,Normal,Abnormal,Normal,Normal,one
+male,Sedentary,No,No,No,Insulin,8 hour,Yes,No,No,Surgery,No,Normal,Normal,No,Normal,Normal,Middle,Normal,Normal,Abnormal,Normal,Normal,one
+male,Sedentary,Level Two,No,Yes,Insulin,Unsatable,No,Yes,No,Heart Attack,No,Normal,Normal,No,Normal,Normal,Middle,Normal,Normal,Abnormal,Normal,Normal,one
+male,Sedentary,Level Three,No,Yes,No,20 hour,No,Yes,No,Heart Attack,No,High,Normal,2day plus,Normal,Normal,Old,Normal,Normal,Abnormal,Abnormal,Normal,one
+male,Moderate,Level One,Yes,Yes,No,Unsatable,Yes,No,Yes,Heart Attack,No,Normal,Normal,2day plus,Bradycardia,Normal,Middle,Normal,Normal,Abnormal,Abnormal,Normal,one
+male,Sedentary,No,No,Yes,Insulin,20 hour,No,No,No,Heart Attack,No,Normal,Normal,1 day,Normal,Elevated,Old,Normal,Normal,Abnormal,Abnormal,Normal,one
+male,Sedentary,Level Four,No,No,No,No,No,No,Yes,Heart Attack,No,Low,High,High,Normal,Depressed,Old,Normal,Abnormal,Abnormal,Abnormal,Normal,one
+male,Sedentary,Level One,No,No,No,20 hour,Yes,Yes,No,Heart Attack,No,Low,Low,1 day,Normal,Depressed,Old,Normal,Normal,Abnormal,Normal,Normal,one
+male,Sedentary,No,No,Yes,Insulin,Unsatable,No,No,Yes,Heart Attack,Yes,High,Normal,High,Normal,Elevated,Old,Normal,Normal,Abnormal,Abnormal,Normal,one
+male,Active,Level One,No,No,No,2 Hour,No,Yes,Yes,Heart Attack,Yes,Normal,Normal,1 day,Tachycardia,Normal,Old,Normal,Normal,Abnormal,Normal,Normal,one
+female,Sedentary,No,Yes,Yes,No,1 day ,Yes,Yes,No,Heart Attack,No,Normal,Low,1 day,Normal,Normal,Middle,Normal,Normal,Abnormal,Normal,Normal,one
+male,Active,Level Two,No,Yes,Insulin,1 day ,No,No,No,Heart Attack,No,High,Low,No,Normal,Elevated,Middle,Low,Normal,Abnormal,Normal,Low,one
+male,Sedentary,Level One,No,No,No,No,No,No,Yes,Heart Attack,No,Low,Low,1 day,Tachycardia,Normal,Old,Normal,Normal,Abnormal,Abnormal,Normal,one
+female,Sedentary,No,Yes,No,No,1 day ,No,No,Yes,Heart Attack,No,Low,Low,No,Bradycardia,Normal,Old,Normal,Normal,Normal,Normal,Normal,one
+male,Sedentary,No,No,No,Yes,8 hour,No,No,Yes,Other Heart Problem,No,Normal,Normal,1 day,Bradycardia,Normal,Old,Low,Normal,Abnormal,Normal,Low,one
+male,Sedentary,Level Two,No,Yes,No,Unsatable,No,No,No,Heart Attack,No,High,Low,1 day,Normal,Normal,Old,Normal,Normal,Abnormal,Normal,Normal,one
+male,Sedentary,No,Yes,Yes,Insulin,Unsatable,No,Yes,Yes,Surgery,No,Normal,Low,2day plus,Normal,Normal,Old,Normal,Normal,Abnormal,Normal,Normal,one
+male,Sedentary,Level Two,No,No,No,1 day ,No,No,Yes,Heart Attack,Yes,Normal,Normal,2day plus,Normal,Normal,Old,Normal,Normal,Abnormal,Normal,Normal,one
